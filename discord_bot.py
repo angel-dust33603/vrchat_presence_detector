@@ -94,7 +94,7 @@ DISCORD_CHANNEL_ID = int(
 )
 
 # Development/test Discord server
-DISCORD_GUILD_ID = 1540215898768408617
+DISCORD_GUILD_ID = insert guild id here
 
 WATCHED_USERS = config["watched_users"]
 
