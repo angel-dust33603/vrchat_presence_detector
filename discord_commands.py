@@ -3,7 +3,7 @@ from discord import app_commands
 
 
 # Only this Discord user can use /status
-OWNER_ID = 1489286124034588732
+OWNER_ID = insert id here
 
 
 def register_commands(
