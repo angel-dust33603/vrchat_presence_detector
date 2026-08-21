@@ -1,0 +1,16 @@
+{
+    "watched_users": [
+        "Epictaco101",
+        "PrimalDark679",
+        "AlexVeloxFox",
+        "Angel_Dust28"
+    ],
+
+    "discord": {
+        "channel_id": 1540215981694128149
+    },
+
+    "settings": {
+        "announce_current_status_on_start": true
+    }
+}
